@@ -10,13 +10,14 @@
  <manifest:file-entry manifest:full-path="Pictures/1000020100000360000002404AC2FDB14F14A8B6.png" manifest:media-type="image/png"/>
  <manifest:file-entry manifest:full-path="Pictures/1000020100000328000002A39CCB5202274271DB.png" manifest:media-type="image/png"/>
  <manifest:file-entry manifest:full-path="Pictures/1000020100000326000002A5E43FFFE516AE1CA1.png" manifest:media-type="image/png"/>
+ <manifest:file-entry manifest:full-path="Pictures/1000020100000327000002A559764768B696EDA6.png" manifest:media-type="image/png"/>
+ <manifest:file-entry manifest:full-path="Pictures/10000201000004440000028ED47D725AD44816BA.png" manifest:media-type="image/png"/>
  <manifest:file-entry manifest:full-path="Pictures/200000090000357000001A27A3B0C4019E20747C.svm" manifest:media-type=""/>
  <manifest:file-entry manifest:full-path="Pictures/2000000900000811000003EE105AE4F4C01F15F9.svm" manifest:media-type=""/>
  <manifest:file-entry manifest:full-path="Pictures/2000000900004D00000041F17F08ED39CFE737D8.svm" manifest:media-type=""/>
  <manifest:file-entry manifest:full-path="Pictures/2000000900000DC000000983114AE5BD1D2D1A51.svm" manifest:media-type=""/>
  <manifest:file-entry manifest:full-path="Pictures/2000000900001AAB000006B904C7B6400E50EDFB.svm" manifest:media-type=""/>
  <manifest:file-entry manifest:full-path="Pictures/2000000900003BA3000037EBF631B04520D5CDFC.svm" manifest:media-type=""/>
- <manifest:file-entry manifest:full-path="Pictures/1000020100000327000002A559764768B696EDA6.png" manifest:media-type="image/png"/>
  <manifest:file-entry manifest:full-path="Pictures/10000201000004AA000003478F3C1418AB0055E2.png" manifest:media-type="image/png"/>
  <manifest:file-entry manifest:full-path="Pictures/10000201000002C200000236A8661E5E66756215.png" manifest:media-type="image/png"/>
  <manifest:file-entry manifest:full-path="Pictures/1000020100000326000002A2F2C6C245EF26FB3F.png" manifest:media-type="image/png"/>
